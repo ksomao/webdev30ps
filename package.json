@@ -1,0 +1,24 @@
+{
+  "name": "webdev30ps",
+  "version": "0.1.0",
+  "description": "A Node.js module for solving various devops tasks using web3 technology.",
+  "main": "webdev30ps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksomao/webdev30ps.git"
+  },
+  "keywords": ["web3", "devops"],
+  "author": "ksomao",
+  "license": "MIT",
+  "homepage": "https://github.com/ksomao/webdev30ps",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "web3": "^1.5.3"
+  }
+}
